@@ -6,7 +6,7 @@
 	<name>Circular List</name>	
 	<version>1.1</version>
 	<author>JeyDotC</author>
-	<website>https://github.com/JeyDotC/JeyDotc-C2-Extensions</website>
-	<documentation>https://github.com/JeyDotC/JeyDotc-C2-Extensions/wiki/circular_list</documentation>
+	<website>https://github.com/JeyDotC/construct2-circular_list</website>
+	<documentation>https://github.com/JeyDotC/construct2-circular_list</documentation>
 	<description>Implementation of a circular list data structure.</description>
 </c2addon>
